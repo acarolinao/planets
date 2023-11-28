@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T22:18:16.141Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="gpy0ulv_8wrASQpFAFHj" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T00:01:58.056Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="WOZ1Gtrzm-neqbQXuaHG" version="22.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2156" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -10,6 +10,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aH96cFNIvQmzftlEokGr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aH96cFNIvQmzftlEokGr-0" target="aH96cFNIvQmzftlEokGr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aH96cFNIvQmzftlEokGr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.296;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aH96cFNIvQmzftlEokGr-0" target="aH96cFNIvQmzftlEokGr-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aH96cFNIvQmzftlEokGr-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;{myssembly}.fa*&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -51,20 +54,32 @@
         <mxCell id="aH96cFNIvQmzftlEokGr-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;EG_nonTIRhmm .txt&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="60" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="aH96cFNIvQmzftlEokGr-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;miniprot-0.12.CBG&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aH96cFNIvQmzftlEokGr-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;miniprot&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="270.62" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aH96cFNIvQmzftlEokGr-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;hmmer3.3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aH96cFNIvQmzftlEokGr-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;nhmmer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="821" y="270.62" width="149" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aH96cFNIvQmzftlEokGr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aH96cFNIvQmzftlEokGr-20" target="aH96cFNIvQmzftlEokGr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aH96cFNIvQmzftlEokGr-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;RNAseq data&amp;nbsp;&lt;br&gt;10 samples&lt;br&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="700" width="200" height="90" as="geometry" />
+          <mxGeometry x="185" y="575" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aH96cFNIvQmzftlEokGr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aH96cFNIvQmzftlEokGr-15" target="aH96cFNIvQmzftlEokGr-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aH96cFNIvQmzftlEokGr-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aH96cFNIvQmzftlEokGr-16" target="aH96cFNIvQmzftlEokGr-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aH96cFNIvQmzftlEokGr-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aH96cFNIvQmzftlEokGr-30" target="aH96cFNIvQmzftlEokGr-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aH96cFNIvQmzftlEokGr-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;bowtie2&lt;br&gt;samtools&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470.00000000000006" y="590" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aH96cFNIvQmzftlEokGr-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;{myassembly}&lt;br&gt;_rna.bam&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="468.5" y="720" width="152.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
